@@ -29,7 +29,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Infrastures whether it's on-cloud or on-prem, Deploying new Products and apllications </b> and
+                <b className="purple">Infrastructures whether it's on-cloud or on-prem, Deploying new Products and apllications </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Machine Learning, Cloud Automation and services.
