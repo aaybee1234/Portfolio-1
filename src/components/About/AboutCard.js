@@ -8,9 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Abubakar </span>
+            I'm a Graduate in <span className="purple">Telecommunication Engineering </span>
             from <span className="purple"> Karachi, Pakistan.</span>
-            <br />I am a graduate in Telecommunication Engineering
+            <br />My Objective is to Seek a challenging Cloud and Devops Engineer role to leverage
+expertise in cloud computing and IT infrastructure for delivering
+reliable solutions and contributing to company growth 
             <br />
             <br />
             Apart from coding, some other activities that I love t  o do!

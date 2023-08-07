@@ -19,7 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with computers since i was a toddler and I have at least learnt something, I think… 🤷‍♂️
+            I'm Abubakar Arshad, a Trainee DevOps Engineer. 
+
+            As a proactive learner, I stay updated with the latest DevOps trends. I thrive on problem-solving and embrace challenges. With strong communication skills, I collaborate effectively to ensure project success.
+
+            As a DevOps Engineer, I'm committed to making a meaningful impact in the tech industry. I believe my dedication and enthusiasm will be valuable assets in various projects."
               <br />
               <br />I am fluent in classics like
               <i>
